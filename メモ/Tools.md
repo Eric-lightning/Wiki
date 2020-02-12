@@ -1,0 +1,10 @@
+# 便利ツール
+- [アスキーアート（AA)の図を書けるツール:AsciiFlow](http://asciiflow.com/)
+- [IPアドレス計算 - クラスレスアドレスのチェックに活用](https://www.ipkeisan.com/)
+- [HACKER TARGET - ネットワークの検査（PingやDigなど）](https://hackertarget.com/ip-tools/)
+- [SAMPLE VIDEO（転送テスト用サンプルビデオ）](https://sample-videos.com/)
+- [計算ツール - Casio](https://keisan.casio.jp/)
+- [Google Site Speed Checker](https://www.thinkwithgoogle.com/intl/ja-jp/feature/testmysite)
+- [Freeの開発者用ツールの紹介（外部）](https://free-for.dev)
+- [行頭文字追加ツール](https://blugrit.com/tools/addtext/)
+- [URL/URIパーセントエンコード・デコード](https://tech-unlimited.com/urlencode.html)
